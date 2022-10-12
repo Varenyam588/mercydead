@@ -1,12 +1,8 @@
 #include<stdio.h>
 
- int main()
-    {
-        printf("RA2211042010061")
-
 int main()
 {
-    printf("\n\n\t\tStudytonight - Best place to learn\n\n\n");
+    printf("RA2211042010061");
     int a[50], size, i, big, small;
 
     printf("\nEnter the size of the array: ");
