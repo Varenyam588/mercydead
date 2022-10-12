@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("\n\n\t\tStudytonight - Best place to learn\n\n\n");
+    printf("RA2211042010061")
 
     /* 
         always declare the variables before using them 
