@@ -1,13 +1,14 @@
 #include<stdio.h>
-#include<ctype.h> // to use system defined function islower & toupper
 
 int main()
 {
+   printf("RA2211042010061")
+       
     printf("\n\n\t\tStudytonight - Best place to learn\n\n\n");
 
     char alphabet;
     printf("Enter an alphabet : ");
-    putchar('\n');  // to move to next Line
+    putchar('\n');  
 
     alphabet=getchar();
 
@@ -17,7 +18,6 @@ int main()
         putchar(toupper(alphabet));
 
     else 
-        // must be an uppercase character
         printf("%c",tolower(alphabet)) ;
 
     printf("\n\n\t\t\tCoding is Fun !\n\n\n");
