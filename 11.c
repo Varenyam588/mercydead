@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("RA2211042010061")
+    printf("RA2211042010061");
 
     char alphabet;
     printf("Enter an alphabet : ");
