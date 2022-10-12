@@ -5,9 +5,6 @@ int main()
     printf("RA2211042010061")
         
 int a,b;
-int main()
-{
-    printf("\n\n\t\tStudytonight - Best place to learn\n\n\n");
     printf("\n\nEnter the two values to find the greatest and smallest number: \n");
     scanf("%d%d", &a, &b);
 
