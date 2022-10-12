@@ -2,9 +2,7 @@
 
 int main()
 {
-    printf("RA2211042010061")
-        
-    printf("\n\n\t\tStudytonight - Best place to learn\n\n\n");
+    printf("RA2211042010061");
 
     char alphabet;
     printf("Enter an alphabet : ");
