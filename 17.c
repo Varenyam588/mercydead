@@ -3,10 +3,9 @@
 int main()
 {
    
-    printf("RA2211042010061")
+    printf("RA2211042010061");
 
-    printf("\n\n\t\tStudytonight - Best place to learn\n\n\n");
-
+       
     char ch;
     printf("Input a Character :  ");
     scanf("%c", &ch);
