@@ -1,8 +1,9 @@
-//this is a comment
-#include <stdio.h>    //including header file in our program
+#include <stdio.h>   
 
-int main()            //main() where the execution begins
+int main()            
 {
+  
     printf("Hello World");
+    
     return 0;
 }
