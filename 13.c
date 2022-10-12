@@ -3,9 +3,7 @@
 int main()
 {
     printf("RA221104201061")
-           
-#include<conio.h>
-
+         
 void main()
 {
     int x = 10, y = 15;
