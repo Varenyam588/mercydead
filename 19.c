@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<ctype.h> // to use system defined function islower & toupper
 
 int main()
 {
