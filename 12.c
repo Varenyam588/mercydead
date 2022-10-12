@@ -3,8 +3,6 @@ int main()
 {
     printf("RA2211042010061")
 
-#include<conio.h>
-
 void main()
 {
     int x = 10, y = 15, temp;
