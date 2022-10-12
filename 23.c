@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("RA2211042010061")
+    printf("RA2211042010061");
 
     /* 
         always declare the variables before using them 
