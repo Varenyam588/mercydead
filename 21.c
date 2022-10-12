@@ -4,7 +4,7 @@ int a,b;
 int main()
 {
     
-    printf("RA2211042010061")
+    printf("RA2211042010061");
     printf("\n\nEnter the two values to find the greatest and smallest number: \n");
     scanf("%d%d", &a, &b);
 
