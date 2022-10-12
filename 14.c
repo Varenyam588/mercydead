@@ -1,7 +1,10 @@
 #include<stdio.h>
+
 int main()
-}
-printf("RA2211042010061")
+
+{
+
+printf("RA2211042010061");
    
 void main()
 {
