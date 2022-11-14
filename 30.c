@@ -1,30 +1,21 @@
 #include<stdio.h>
-#include<conio.h>
 
-void main()
+void main() 
 {
-    int a, b, c, s = 0;
-    clrscr();
-    printf("Enter a number:\t");
-    scanf("%d", &a);
-    c = a;
-
-   // the number is reversed inside the while loop.
-   while(a > 0)
+    int x;
+    scanf("%d",&x);
+    if(x<=9)
    {
-      b = a%10;
-      s = (s*10)+b;
-      a = a/10;
-   }
-
-   // here the reversed number is compared with the given number.
-   if(s == c)
+        printf("Insufficient Earning");
+    }
+   else if((x>=10)&&(x<=99))
    {
-      printf("The number %d is a palindrome", c);
+      printf("Very Low Earning");
    }
-   else
+   else if((x>=100)&&(x<=999))
    {
-      printf("The number %d is not a palindrome", c);
+      printf("Low Earning");
    }
-  getch();
+   else (printf("High Earning"));
+    return 0;
 }
