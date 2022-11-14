@@ -1,10 +1,8 @@
 #include<stdio.h>
 
-int main()
-{
-    printf("\n\n\t\tStudytonight - Best place to learn\n\n\n");
-
-    int array[100], position, c, n;
+int main() {
+    
+   int array[100], position, c, n;
     printf("\n\nEnter number of elements in array:");
     scanf("%d", &n);
 
@@ -29,7 +27,5 @@ int main()
     */
     for(c = 0; c < n-1; c++) 
         printf("%d  ", array[c]);
-
-    printf("\n\n\t\t\tCoding is Fun !\n\n\n");
     return 0;
 }
