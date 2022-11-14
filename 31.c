@@ -2,8 +2,6 @@
 
 int main()
 {
-	printf("\n\n\t\tStudytonight - Best place to learn\n\n\n");
-
 	int n, sum = 0, c, remainder;
 
     	printf("Enter the number you want to add digits of:  ");
@@ -17,6 +15,5 @@ int main()
     	}
 
     	printf("\n\nSum of the digits of the entered number is  =  %d\n\n", sum);
-    	printf("\n\n\n\n\t\t\tCoding is Fun !\n\n\n");
     	return 0;
 }
